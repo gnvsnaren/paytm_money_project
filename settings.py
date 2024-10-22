@@ -2,3 +2,5 @@ from os import environ
 
 PAYTM_API_KEY=environ.get('PAYTM_API_KEY')
 PAYTM_API_SECRET=environ.get('PAYTM_API_SECRET')
+PAYTM_REQUEST_TOKEN=environ.get('PAYTM_REQUEST_TOKEN')
+PAYTM_ACCESS_TOKEN=environ.get('PAYTM_ACCESS_TOKEN')
